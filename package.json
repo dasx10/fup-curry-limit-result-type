@@ -1,0 +1,22 @@
+{
+  "name": "fup-curry-limit-result-type",
+  "version": "1.0.0",
+  "description": "curry map helper",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasx10/fup-curry-limit-result-type.git"
+  },
+  "keywords": [
+    "curry",
+    "type",
+    "maptype"
+  ],
+  "author": "Yevhenii Kleshchev <dasx10@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/dasx10/fup-curry-limit-result-type#readme",
+  "dependencies": {
+    "fup-curry-result-type": "^1.0.2",
+    "fup-tuple-gain-type": "^1.0.0"
+  }
+}
